@@ -1,8 +1,6 @@
 import os
 import pandas as pd
 from glob import glob
-import inspect
-
 
 path = "C:/Users/Nenad/Desktop/Data"
 EXT = "data1.csv"
