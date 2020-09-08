@@ -1,3 +1,4 @@
+#Merge CSV files from different folders
 import os
 import pandas as pd
 from glob import glob
